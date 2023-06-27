@@ -1,0 +1,632 @@
+/* HEADER*/
+.header {
+    border-bottom: 2px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #000000;
+}
+.topnav {
+    text-align: right;
+    padding-top: 35px;
+}
+.topnav a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin: 10px;
+    text-decoration: none;
+    color: #ffffff;    
+
+    border: 2px solid #000000;
+  }
+.topnav a:hover {
+    border: 2px solid #ffffff;
+
+    background-color: #ffffff;
+    color: #000000;
+}
+/*TUTUP HEADER*/
+
+/*HERO SECTION*/
+.hero-section {
+    background-color: #000000;
+    padding-bottom: 40px;
+}
+/*TUTUP HERO SECTION*/
+
+/* BEST WEEKLY*/
+.best-weekly {
+    padding-top: 80px;
+    padding-bottom:80px ;
+
+    background-color: #b2d8d8;
+}
+.best-weekly .main-title {
+    font-family: nunito;
+    text-align: left;
+    margin-bottom: 44px;
+}
+.main-title h4 {
+    color: #000;
+    font-size: 48px;
+    font-weight: 700;  
+}
+.main-title h6 {
+    padding-top: 20px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;  
+}
+.featured-product {
+    background-color: #ffffff;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    border-radius: 20px;
+    box-shadow: 0px 0px 80px 7px rgba(0, 0, 0, 0.15) inset;
+}
+.featured-product:hover {
+    box-shadow: 13px 19px 11px -2px rgba(0, 0, 0, 0.25);
+    border: 2px solid #707070;
+}
+.best-weekly img {
+    width: 100%;
+}
+.best-weekly a {
+    text-decoration: none;
+    color: #000000;
+}
+.see-more {
+    text-align: center;
+    margin: auto;
+
+    border: solid #000000;
+    width: 155px;
+
+    padding: 10px;
+}
+.see-more:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+/*TUTUP BEST WEEKLY*/
+
+/* NEW ARRIVALS*/
+.new-arrival {
+    margin-top: 95px;
+    margin-bottom: 25px;
+}
+.new-arrival a {
+    text-decoration: none;
+    color: black;
+}
+.new-arrival h4 {
+    font-family: nunito;
+    font-weight: 500;
+    font-size: 32px;
+
+    text-align: left;
+    margin-bottom: 44px;
+}
+.new-arrival img {
+    width: 100%;
+}
+.new-arrival h5 {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 18px;
+    
+    height: 80px;
+
+    margin-top: 15px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.new-arrival p {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 16px;
+
+    padding: 15px;
+
+    color: #707070;
+}
+.frame-card {
+    border: 1px solid black;
+    height: 400px;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
+}
+/*TUTUP NEW ARRIVALS*/
+
+/*  BANNER*/
+.mid-banner {
+    margin-top: 95px;
+    margin-bottom: 250px;
+}
+.mid-banner img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 7px;
+}
+/*TUTUP  BANNER*/
+
+/*  FOOTER*/
+.footer {
+    background-color: #000000;
+
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+.footer .bottom-banner img {
+    width: 100%;
+    margin-bottom: 80px;
+}
+.footer h4 {
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer a .btn-shop-now:hover {
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #000000;
+    border: 5px solid #000000;
+}
+.btn-shop-now {
+    color: #FFF;
+    font-size: 64px;
+    font-family: Bebas Neue;
+    text-align: center;
+
+    border-radius: 20px;
+    border: 5px solid #FFF;
+    background: #000;
+
+    width: 300px;
+
+    margin: auto;
+}
+.footer .brands {
+    padding-top: 160px;
+    margin: auto;
+    width: 900px;
+}
+.footer-bottom a {
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer .socials img {
+    width: 45px;
+}
+.copyright {
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+}
+/*TUTUP  FOOTER*/
+
+/*PRODUCT SECTION*/
+.background-page {
+    background-color: #B2D8D8;
+    padding-top:55px ;    
+    padding-bottom: 90px;
+}
+.title-page {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+
+    margin-bottom: 25px;
+}
+.back-to-home {
+    margin-bottom: 20px;
+    
+}
+.back-to-home a:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid ;
+}
+.back-to-home a {
+    color: #000;
+    text-align: left;
+    font-size: 20px;
+
+    text-decoration: none;
+    font-family: bebas neue;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    background-color: #000000;
+    color: #ffffff;
+}
+.frame-product {
+    border: 1px solid #8E8E8E;
+    width: 100%;
+    background-color: #FFFFFF;
+
+    padding-top: 85px;
+    padding-bottom: 50px;
+}
+.frame-product img {
+    width: 393px;
+    height: auto;
+    cursor: zoom-in;
+}
+.frame-product img:hover {
+    transform: scale(1.1);
+}
+.frame-product h5 {
+    font-family: alata;
+    font-size: 18px;
+    font-weight: 400;
+
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+}
+.frame-product p {
+    font-family: nunito;
+    font-size: 18px;
+    font-weight: 300;
+}
+.frame-product select {
+    width: 130px;
+    margin-bottom: 15px;
+}
+.frame-product .detail-product {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-bottom: 1px solid black;
+}
+.frame-product .total-purchase {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 15px;
+    border-bottom: 1px solid black;
+}
+.frame-product .buy-now {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.frame-product .buy-now button{
+    width: 100%;
+
+    font-size: 32px;
+    font-weight: 500;
+    font-family: bebas neue;
+
+    color: #ffffff;
+    background-color: #000000;
+    border: none;
+    height: 90px;
+}
+.frame-product .buy-now button:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border: 3px solid #000;
+}
+.wl-cart {
+    width: 100%;
+}
+.frame-product .wl-cart button {
+
+    font-size: 22px;
+    font-weight: 900;
+    font-family: nunito;
+
+    color: #FFFFFF;
+    border: none;
+    background-color: #696969;
+    height: 90px;
+}
+.frame-product .wl-cart button:hover {
+    color: #696969;
+    border: 3px solid #696969 ;
+    background-color: #FFFFFF;
+}
+.frame-product .navbar-product {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    margin-top: 45px;
+    margin-bottom: 55px;
+
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.frame-product .navbar-product a {
+    overflow: hidden;
+    text-align: center;
+    color: black;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.frame-product .relate-product {
+    width: 100%;
+    border: 1px solid black;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+    background-color: #B2D8D8;
+}
+.frame-product .relate-product img {
+    width: 100%;
+}
+.frame-product .relate-product h5 {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 17px;
+
+    color: black;
+    
+    height: 50px;
+
+    margin-top: 15px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.frame-product .relate-product p {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 16px;
+
+    padding: 15px;
+
+    color: #707070;
+}
+/*TUTUP PRODUCT SECTION*/
+
+/*PRODUCT INFORMATION*/
+.order-page .tabel-product-information {
+    background-color: #ffffff;
+
+    margin-top: 45px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+.order-page .tabel-product-information table{
+    width: 100%;
+}
+.order-page .tabel-product-information td{
+    border: #D5D5D5 1px solid;
+}
+.order-page .tabel-product-information img {
+    width: 108px;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+}
+.order-page .tabel-product-information h5 {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: left;
+
+    padding-top: 25px;
+
+}
+.order-page .tabel-product-information p {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: left;
+
+    color: #646464;
+
+    padding-bottom: 15px;
+}
+/*TUTUP PRODUCT INFORMATION*/
+
+/*TOTAL PRICE*/
+.order-page .total-price {
+    background-color: #F4F4F4;
+    border: #D5D5D5 1px solid;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    margin-bottom: 45px;
+    
+}
+.order-page .total-price h5{
+    font-family: alata;
+    font-weight: 400;
+    font-size: 15px;
+}
+.order-page .total-price p {
+    margin-top: 20px;
+    font-family: alata;
+    font-weight: 400;
+    font-size: 15px;
+}
+/*TUTUP TOTAL PRICE*/
+
+/*USER INFORMATION*/
+.user-information table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+
+    background-color: #ffffff;
+    
+}
+.user-information td {
+    padding: 25px;
+    padding-right: 45px;
+    text-align: right;
+}
+/*TUTUP USER INFORMATION*/
+
+/*SHIPPING COMPANY*/
+.shiping-company table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+
+    background-color: #ffffff;
+}
+.shiping-company td {
+    width: 100%;
+    padding: 45px;
+}
+.shiping-company th {
+    background-color: #F4F4F4;
+    height: 63px; 
+    text-align: center;
+}
+.shiping-company select {
+    width: 300px;
+    padding: 10px;
+    margin-left: 30px;
+}
+/*USER SHIPPING COMPANY*/
+
+
+/*PAYMENT USE*/
+.payment-use table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+
+    background-color: #ffffff;
+}
+.payment-use td {
+    width: 10%;
+    padding: 45px;
+}
+/*TUTUP PAYMENT USE*/
+
+/*ORDER DAN CANCEL BUTTON*/
+
+.button-cancel-order button{
+    width: 100%;
+
+    font-size: 32px;
+    font-weight: 500;
+    font-family: bebas neue;
+
+    color: #ffffff;
+    background-color: #000000;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    border-radius: 20px;
+}
+.button-cancel-order button:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #000;
+}
+.button-cancel-order .cancel {
+    color: black;
+
+    font-size: 32px;
+    font-weight: 500;
+    font-family: bebas neue;
+
+    padding-top: 10px;
+}
+.button-cancel-order .order{
+    color: white;
+    background-color: #000000;
+    border: 2px solid #000000;
+}
+/*TUTUP ORDER DAN CANCEL BUTTON*/
+
+/*USER INFORMATION*/
+.bank-information table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+
+    background-color: #ffffff;
+    
+}
+.bank-information td {
+    padding: 45px;
+    padding-right: 45px;
+    text-align: left;
+}
+/*TUTUP USER INFORMATION*/
+
+/*ORDER SUCCESS*/
+.order-success {
+    text-align: center;
+    padding-bottom: 190px;
+}
+.order-success a {
+    text-decoration: none;
+}
+.order-success h3 {
+    font-family: nunito;
+    font-weight: 700;
+    font-size: 40px;
+
+    color: #000000;
+
+    margin-top: 121px;
+}
+.order-success img {
+    border-radius: 90px;
+    margin-bottom: 40px;
+}
+.order-success h5 {
+    font-family: nunito;
+    font-weight: 400;
+    font-size: 24px;
+
+    color: black;
+
+    margin-bottom: 40px;
+}
+.order-success h4 {
+    font-family: bebas neue;
+    font-weight: 400;
+    font-size: 27px;
+
+    color: #ffffff;
+    text-decoration: none;
+
+    background-color: #000000;
+
+    margin-bottom: 90px;
+    border-radius: 20px;
+
+    text-align: center;
+
+    margin: auto;
+
+    padding: 20px;
+
+    width: 230px;
+
+    border: 3px solid #000000;
+}
+.order-success h4:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border: 3px solid #000000;
+}
+/*TUTUP ORDER SUCCESS*/
